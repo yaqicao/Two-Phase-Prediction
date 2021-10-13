@@ -55,7 +55,7 @@ The file example.R includes one example of how to estimate TPR, FPR & AUC as wel
   * Dat_auc_mle(): Estimation and asymptotic standard error of AUC.
 
 ## Main-Design.R
-
+![](TwoPhaseAccuracyReadmeFigure.png "")
 ## Main-Post-stratification.R
 
 * Case-control design + R-balanced (Balanced) post-stratification analysis method
